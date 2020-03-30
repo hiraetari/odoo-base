@@ -1,11 +1,11 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * iap
-# 
+#
 # Translators:
 # Martin Trigaux, 2018
 # Ivan Yelizariev <yelizariev@it-projects.info>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 12.0\n"
@@ -35,14 +35,14 @@ msgstr "Токен учетной записи"
 #: code:addons/iap/static/src/js/crash_manager.js:23
 #, python-format
 msgid "Buy credits at Odoo"
-msgstr "Берите кредиты в Odoo"
+msgstr "Приобретите credits на официальном сайте Odoo"
 
 #. module: iap
 #. openerp-web
 #: code:addons/iap/static/src/xml/iap_templates.xml:41
 #, python-format
 msgid "Buy more credits"
-msgstr "Получить больше кредитов"
+msgstr "Приобретите больше credits"
 
 #. module: iap
 #. openerp-web
@@ -56,7 +56,7 @@ msgstr "Отменить"
 #: code:addons/iap/static/src/xml/iap_templates.xml:28
 #, python-format
 msgid "Checking remaining credit ..."
-msgstr "Проверка остатка кредита ..."
+msgstr "Проверка оставшихся credits ..."
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__company_id
@@ -99,7 +99,7 @@ msgstr "Учетные записи IAP"
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__id
 msgid "ID"
-msgstr "Номер"
+msgstr "ID"
 
 #. module: iap
 #. openerp-web
@@ -113,21 +113,21 @@ msgstr "Покупки в приложении"
 #: code:addons/iap/static/src/js/crash_manager.js:51
 #, python-format
 msgid "Insufficient Balance"
-msgstr "недостаточный баланс"
+msgstr "Недостаточный баланс"
 
 #. module: iap
 #. openerp-web
 #: code:addons/iap/static/src/xml/iap_templates.xml:31
 #, python-format
 msgid "Insufficient credit"
-msgstr "недостаточный кредит"
+msgstr "Недостаточно credits"
 
 #. module: iap
 #. openerp-web
 #: code:addons/iap/static/src/xml/iap_templates.xml:14
 #, python-format
 msgid "Insufficient credit to perform this service."
-msgstr "Недостаточный кредит для выполнения этой услуги."
+msgstr "Недостаточно credits для выполнения этой услуги."
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account____last_update
@@ -168,7 +168,7 @@ msgstr "Начать испытания в Odoo"
 #: code:addons/iap/static/src/xml/iap_templates.xml:37
 #, python-format
 msgid "Temporarily unavailable"
-msgstr "временно недоступен"
+msgstr "Временно недоступен"
 
 #. module: iap
 #: code:addons/iap/models/iap.py:72
@@ -177,13 +177,13 @@ msgid ""
 "The url that this service requested returned an error. Please contact the "
 "author the app. The url it tried to contact was %s"
 msgstr ""
-"Url-адрес, который делает запрос на эту услугу, возвращает ошибку. "
-"Пожалуйста, свяжитесь с автором приложения. URL-адрес, с которой он пытался "
-"связаться, была %s "
+"Url-адрес, который запрашивает данная служба, возвращает ошибку. "
+"Пожалуйста, свяжитесь с автором приложения. URL-адрес, с которым оно пыталось "
+"связаться: %s "
 
 #. module: iap
 #. openerp-web
 #: code:addons/iap/static/src/xml/iap_templates.xml:34
 #, python-format
 msgid "credits"
-msgstr "кредиты"
+msgstr ""
