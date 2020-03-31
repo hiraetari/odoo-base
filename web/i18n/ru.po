@@ -332,7 +332,7 @@ msgstr "Активировать"
 #: code:addons/web/static/src/xml/base.xml:248
 #, python-format
 msgid "Activate Assets Debugging"
-msgstr "Активировать средство отладки"
+msgstr "Активировать отладку Assets"
 
 #. module: web
 #. openerp-web
@@ -675,7 +675,7 @@ msgstr "На основе"
 #: code:addons/web/static/src/xml/base.xml:250
 #, python-format
 msgid "Become Superuser"
-msgstr "Станьте суперпользователем"
+msgstr "Режим суперпользователя"
 
 #. module: web
 #: code:addons/web/controllers/main.py:1538
@@ -1330,7 +1330,7 @@ msgstr "Редактировать этап"
 #: code:addons/web/static/src/xml/base.xml:276
 #, python-format
 msgid "Edit View:"
-msgstr "Редактировать просмотр:"
+msgstr "Редактировать отображение:"
 
 #. module: web
 #. openerp-web
@@ -1492,7 +1492,7 @@ msgstr "Поле:"
 #: code:addons/web/static/src/xml/base.xml:274
 #, python-format
 msgid "Fields View Get"
-msgstr "Получить поля вида"
+msgstr "Получить поля Отображения"
 
 #. module: web
 #. openerp-web
@@ -2459,7 +2459,7 @@ msgstr "Открыть инструменты разработчика"
 #: code:addons/web/static/src/xml/base.xml:241
 #, python-format
 msgid "Open View"
-msgstr "Открыть Вид"
+msgstr "Открыть Отображения"
 
 #. module: web
 #. openerp-web
@@ -2480,7 +2480,7 @@ msgstr "Открыть предыдущую запись"
 #: code:addons/web/static/src/xml/menu.xml:177
 #, python-format
 msgid "Open to kanban view"
-msgstr "Открыть на канбане"
+msgstr "Открыть Kanban"
 
 #. module: web
 #. openerp-web
@@ -2736,7 +2736,7 @@ msgstr "Красный"
 #: code:addons/web/static/src/xml/base.xml:249
 #, python-format
 msgid "Regenerate Assets Bundles"
-msgstr "Восстановление связей активов"
+msgstr "Регенерировать пакеты Assets"
 
 #. module: web
 #. openerp-web
@@ -2827,21 +2827,21 @@ msgstr "Восстановить"
 #: code:addons/web/static/src/xml/base.xml:240
 #, python-format
 msgid "Run Click Everywhere Test"
-msgstr "Тест нажатия запуска всюду"
+msgstr "Запуск теста: повсеместное нажатие"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:239
 #, python-format
 msgid "Run JS Mobile Tests"
-msgstr "Выполните тесты JS Mobile"
+msgstr "Запуск теста: JS Mobile"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:238
 #, python-format
 msgid "Run JS Tests"
-msgstr "Выполнение JS тестов"
+msgstr "Запуск теста: JS"
 
 #. module: web
 #. openerp-web
